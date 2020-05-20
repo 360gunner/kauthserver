@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: authserver
+  cloud:
+    config:
+      uri: http://localhost:4018
